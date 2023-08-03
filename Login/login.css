@@ -19,7 +19,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.signup {
+.login {
   width: 97%;
   margin: 1rem auto;
   min-height: 100vh;
@@ -34,7 +34,7 @@ body {
   background-repeat: no-repeat;
 }
 
-.sign-up-form {
+.login-form {
   display: flex;
   flex-direction: column;
   width: 90rem;
@@ -67,14 +67,14 @@ body {
   color: #000;
 }
 
-.sign-up-form__bottom {
+.login-form__bottom {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.sign-up-form__guide,
+.login-form__guide,
 .login-link {
   color: #fff;
 }
